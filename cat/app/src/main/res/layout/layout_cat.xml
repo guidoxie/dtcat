@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--主界面-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:stretchColumns="*"  >
+
+            <TableRow>
+
+                <ImageView
+                    android:id="@+id/topImage"
+                    android:layout_span="4"
+                    android:src="@mipmap/top" />
+
+            </TableRow>
+            <TableRow>
+                <ImageView
+                    android:id="@+id/bankcardImage"
+                    android:src="@mipmap/bankcard"
+                    android:layout_width="1dip"
+                    android:layout_span="2"
+                    android:layout_height="wrap_content"
+                    />
+                <ImageView
+                    android:id="@+id/idCardImage"
+                    android:src="@mipmap/id_card"
+                    android:layout_width="1dip"
+                    android:layout_span="2"
+                    android:layout_height="wrap_content"
+                    />
+
+
+            </TableRow>
+            <TableRow>
+                <ImageView
+                    android:id="@+id/carImage"
+                    android:padding="10dip"
+                    android:src="@mipmap/car_detect"
+                    android:layout_width="1dip"
+                    android:layout_height="wrap_content"
+                    />
+                <ImageView
+                    android:id="@+id/dishImage"
+                    android:padding="10dip"
+                    android:src="@mipmap/dish_detect"
+                    android:layout_width="1dip"
+                    android:layout_height="wrap_content"
+                    />
+
+                <ImageView
+                    android:id="@+id/generalImage"
+                    android:padding="10dip"
+                    android:src="@mipmap/basic_general"
+                    android:layout_width="1dip"
+                    android:layout_height="wrap_content"
+                    />
+                <ImageView
+                    android:id="@+id/plantImage"
+                    android:padding="10dip"
+                    android:src="@mipmap/plant_detect"
+                    android:layout_width="1dip"
+                    android:layout_height="wrap_content"
+                    />
+            </TableRow>
+            <TableRow>
+                <ImageView
+                    android:id="@+id/animalImage"
+                    android:padding="10dip"
+                    android:src="@mipmap/animal_detect"
+                    android:layout_width="1dip"
+                    android:layout_height="wrap_content"
+                    />
+                <ImageView
+                    android:id="@+id/logoImage"
+                    android:padding="10dip"
+                    android:src="@mipmap/logo_search"
+                    android:layout_width="1dip"
+                    android:layout_height="wrap_content"
+                    />
+
+                <ImageView
+                    android:id="@+id/starImage"
+                    android:padding="10dip"
+                    android:src="@mipmap/star"
+                    android:layout_width="1dip"
+                    android:layout_height="wrap_content"
+                    />
+                <ImageView
+                    android:id="@+id/plateImage"
+                    android:padding="10dip"
+                    android:src="@mipmap/plate_license"
+                    android:layout_width="1dip"
+                    android:layout_height="wrap_content"
+                    />
+            </TableRow>
+        </TableLayout>
+
+    </ScrollView>
+</LinearLayout>

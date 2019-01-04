@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_tu"
+        android:icon="@drawable/ic_aspect_ratio_black_24dp"
+        android:title="@string/title_dis"/>
+
+    <item
+        android:id="@+id/navigation_wen"
+        android:icon="@drawable/ic_supervisor_account_black_24dp"
+        android:title="@string/title_about" />
+
+    <!---
+    <item
+        android:id="@+id/navigation_miao"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_miao" />
+        -->
+
+</menu>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">云DT猫</string>
+    <string name="title_dis">识别</string>
+    <string name="title_about">关于</string>
+
+
+    <string name="about_title_one">功能概述</string>
+    <string name="about_title_two">\n使用说明</string>
+    <string name="about_title_three">关于</string>
+
+
+    <!--功能说明-->
+    <string name="function_bankcard">\n\t\t银行卡识别</string>
+    <string name="bankcard_describe">\n识别银行卡的卡号并返回发卡行和卡片性质信息</string>
+
+    <string name="function_IDcard">\n\t\t身份证识别</string>
+    <string name="IDcard_describe">\n识别身份证正面的文字信息</string>
+
+
+    <string name="function_car">\n\t\t车型识别</string>
+    <string name="car_describe">\n检测用户上传的车辆图片，识别所属车型，包括车辆品牌及具体型号</string>
+
+    <string name="function_dish">\n\t\t菜品识别</string>
+    <string name="dish_describe">\n检测用户上传的菜品图片，返回具体的菜名、卡路里、置信度信息</string>
+
+
+    <string name="function_word">\n\t\t文字识别</string>
+    <string name="word_describe">\n高精度地识别图片中的文字信息</string>
+
+
+    <string name="function_plant">\n\t\t植物识别</string>
+    <string name="plant_describe">\n检测用户上传的植物图片，返回植物名称、置信度信息</string>
+
+
+    <string name="function_animal">\n\t\t动物识别</string>
+    <string name="animal_describe">\n检测用户上传的动物图片，返回动物名称、置信度信息</string>
+
+
+    <string name="function_logo">\n\t\t商标识别</string>
+    <string name="logo_describe">\n识别图片中包含的商品LOGO信息，返回LOGO品牌名称、置信度</string>
+
+
+    <string name="function_star">\n\t\t明星识别</string>
+    <string name="star_describe">\n个人原因，抱歉，时间有限，功能尚在开发中</string>
+
+
+    <string name="function_plate">\n\t\t车牌识别</string>
+    <string name="plate_describe">\n对小客车的车牌进行识别</string>
+    <!--使用说明-->
+
+
+    <!--关于-->
+    <string name="about">因技术性问题，导致识别的正确率较低，此软件仅供娱乐使用。</string>
+    <string name="team">骚骚多媒体</string>
+    <string name="team_members1">老邹</string>
+    <string name="team_members2">骚彪</string>
+    <string name="team_members3">断魂一叶</string>
+</resources>
