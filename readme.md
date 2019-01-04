@@ -54,7 +54,7 @@
 #### 银行卡识别
 ![](picture/bankcard.jpg){:height="30%" width="30%"}
 
-![](picture/bankcard_re.png){:height="30%" width="30%"}
+![](picture/bankcard_re.jpg){:height="30%" width="30%"}
 
 #### 身份证识别
 ![](picture/idcard.png){:height="30%" width="30%"}
