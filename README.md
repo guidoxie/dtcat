@@ -47,54 +47,54 @@
 - cat /app /src /main /res / mipmap-xhdpi / : 程序UI的图片资源
 
 #### 软件界面
-![](picture/home.png){:height="30%" width="30%"}
+![](picture/home.jpg)
 
-![](picture/about.png){:height="30%" width="30%"}
+![](picture/about.jpg)
 
 #### 银行卡识别
-![](picture/bankcard.jpg){:height="30%" width="30%"}
+![](picture/bankcard.jpg)
 
-![](picture/bankcard_re.jpg){:height="30%" width="30%"}
+![](picture/bankcard_re.jpg)
 
 #### 身份证识别
-![](picture/idcard.png){:height="30%" width="30%"}
+![](picture/idcard.jpg)
 
-![](picture/idcard_re.jpg){:height="30%" width="30%"}
+![](picture/idcard_re.jpg)
 
 #### 车型识别
-![](picture/car.png){:height="30%" width="30%"}
+![](picture/car.jpg)
 
-![](picture/car_re.png){:height="30%" width="30%"}
+![](picture/car_re.jpg)
 
 #### 菜品识别
-![](picture/dish.png){:height="30%" width="30%"}
+![](picture/dish.jpg)
 
-![](picture/dish_re.png){:height="30%" width="30%"}
+![](picture/dish_re.jpg)
 
 #### 文字识别
-![](picture/word.png){:height="30%" width="30%"}
+![](picture/word.jpg)
 
-![](picture/word_re.png){:height="30%" width="30%"}
+![](picture/word_re.jpg)
 
 #### 植物识别
-![](picture/plant.png){:height="30%" width="30%"}
+![](picture/plant.jpg)
 
-![](picture/plant_re.png){:height="30%" width="30%"}
+![](picture/plant_re.jpg)
 
 #### 动物识别
-![](picture/animial.png){:height="30%" width="30%"}
+![](picture/animial.jpg)
 
-![](picture/animial_re.png){:height="30%" width="30%"}
+![](picture/animial_re.jpg)
 
 #### 商标识别
-![](picture/logo.png){:height="30%" width="30%"}
+![](picture/logo.jpg)
 
-![](picture/logo_re.png){:height="30%" width="30%"}
+![](picture/logo_re.jpg)
 
 #### 车牌识别
-![](picture/plate.png){:height="30%" width="30%"}
+![](picture/plate.jpg)
 
-![](picture/plate_re.png){:height="30%" width="30%"}
+![](picture/plate_re.jpg)
 
 
 
