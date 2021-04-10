@@ -51,50 +51,6 @@
 
 ![](picture/about.jpg)
 
-#### 银行卡识别
-![](picture/bankcard.jpg)
-
-![](picture/bankcard_re.jpg)
-
-#### 身份证识别
-![](picture/idcard.jpg)
-
-![](picture/idcard_re.jpg)
-
-#### 车型识别
-![](picture/car.jpg)
-
-![](picture/car_re.jpg)
-
-#### 菜品识别
-![](picture/dish.jpg)
-
-![](picture/dish_re.jpg)
-
-#### 文字识别
-![](picture/word.jpg)
-
-![](picture/word_re.jpg)
-
-#### 植物识别
-![](picture/plant.jpg)
-
-![](picture/plant_re.jpg)
-
-#### 动物识别
-![](picture/animial.jpg)
-
-![](picture/animial_re.jpg)
-
-#### 商标识别
-![](picture/logo.jpg)
-
-![](picture/logo_re.jpg)
-
-#### 车牌识别
-![](picture/plate.jpg)
-
-![](picture/plate_re.jpg)
 
 
 
