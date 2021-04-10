@@ -49,7 +49,6 @@
 #### 软件界面
 ![](picture/home.jpg)
 
-![](picture/about.jpg)
 
 
 
